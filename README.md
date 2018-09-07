@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need in order to launch the Pentago
 
 ```
 MATLAB 2015a and above
@@ -26,9 +26,9 @@ MATLAB 2015a and above
 
 This Pentago allows the user to change the theme or insert a new theme for the board. There are already 3 themes available by default. 
 
-<p align="center">
-    <img src="screen2.png" alt="Image"/>
-</p>
+One Piece                         |  Original Theme
+:--------------------------------:|:-------------------------:
+![Screenshot](6x6screenshot.png)  |  ![screen2](screen2.png)
 
 ### Break down into end to end tests
 
