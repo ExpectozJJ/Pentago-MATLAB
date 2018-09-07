@@ -3,8 +3,6 @@ function win=determinewin(Board)
 % opponent and draw state. 
 % Format of Call: determinewin(Board)
 % Returns win 
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % Initialises win as 0

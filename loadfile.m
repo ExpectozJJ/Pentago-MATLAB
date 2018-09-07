@@ -2,9 +2,7 @@ function [Board,sg]=loadfile()
 % This function is to load a valid saved game of Pentago to continue
 % playing.
 % Format of Call: loadfile()
-% Returns Board and sg data structure
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
+% Returns Board and sg data structure 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % This command opens the open file dialog box. 

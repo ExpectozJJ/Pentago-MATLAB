@@ -4,8 +4,6 @@ function winningmoves = forthewin(Board,who_to_play)
 % diagonal to win the game in the next move. 
 % Format of Call: forthewin(Board,who_to_play)
 % Returns winningmoves 
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % Initialises empty matrix for collection of winning moves. 

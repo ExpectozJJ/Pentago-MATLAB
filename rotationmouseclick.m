@@ -3,8 +3,6 @@ function r=rotationmouseclick(Board)
 % for rotation into the (i,j) entries of the 9x9 Board matrix 
 % Format of Call: rotationmouseclick(Board)
 % Returns r
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % ginput is the built in function to capture coordinates of the figure from

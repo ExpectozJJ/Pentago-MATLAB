@@ -1,9 +1,7 @@
 function win=victorytest(Board)
 % This function checks for a winning state whenever it is being called. 
 % Format of Call: victory test(Board)
-% Returns win 
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
+% Returns win  
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % Pre-defines all win states of all players as zero 

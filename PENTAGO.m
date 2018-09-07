@@ -5,8 +5,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This is our Pentago Game. It has 2 game boards, 6x6 and 9x9. 
 % This is the start menu where the user chooses the game type and Settings.
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % Gets pentago icon from pentago folder 

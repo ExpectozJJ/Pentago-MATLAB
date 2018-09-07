@@ -4,8 +4,6 @@ function [criticalmove,centremoves] = BasicGenius(Board,who_to_play)
 % from winning next move. 
 % Format of Call: BasicGenius(Board,who_to_play)
 % Returns [criticalmove,centremoves] 
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % Initialises empty matrix for collection of valid centre moves and

@@ -2,9 +2,7 @@ function G_board = graphics(Board)
 % This function creates and updates the graphical interface of the board at
 % every turn when called. 
 % Format of Call: graphics(Board)
-% Returns G_board
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
+% Returns G_board 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % Gets the tile pieces selected (or by default) by user from Settings UI 

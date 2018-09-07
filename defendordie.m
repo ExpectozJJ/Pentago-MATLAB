@@ -3,9 +3,7 @@ function defendbeflate = defendordie(Board,who_to_play)
 % to blocks an opponent's tile piece if it has 3 along the same row, column
 % and diagonal. 
 % Format of Call: defendordie(Board,who_to_play)
-% Return defendbeflate
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
+% Return defendbeflate 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % check refers to the opponent value on the board field. 

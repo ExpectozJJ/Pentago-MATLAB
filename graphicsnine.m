@@ -3,8 +3,6 @@ function G_board=graphicsnine(Board)
 % every turn when called. 
 % Format of Call: graphics(Board)
 % Returns G_board
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % Gets the tile pieces selected (or by default) by user from Settings UI 

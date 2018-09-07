@@ -2,9 +2,7 @@ function Board=ID(r,Board)
 % This function rotates a 3-by-3 sub-board based on the number chosen,r
 % which is the rotation ID input by user
 % Format of Call: ID(r,Board)
-% Returns Board 
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
+% Returns Board  
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 % Stores dimensions of board in variables 

@@ -8,8 +8,6 @@ function Begin9(Board,who_to_play,x)
 % Board is the 9x9 Board Matrix
 % It also takes in the global variable c where c is the user input from
 % settings GUI. (whether the game is played by keyboard or mouse clicking)
-% Created by WEE JUNJIE U1540273K
-% AY2015/16 Sem 1 
 % MH1401 ALGORITHMS & COMPUTING I Project
 
 global m % Uses the global variable c from Settings GUI
