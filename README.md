@@ -1,6 +1,8 @@
 # Pentago
 
-![Screenshot](6x6screenshot.png)
+<p align="center">
+    <img src="6x6screenshot.png" alt="Image"/>
+</p>
 
 Pentago is a two-player abstract strategy game invented by Tomas Flodén.
 
