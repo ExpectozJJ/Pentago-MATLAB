@@ -19,30 +19,16 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+MATLAB 2015a and above
 ```
 
-### Installing
+## Themes
 
-A step by step series of examples that tell you how to get a development env running
+This Pentago allows the user to change the theme or insert a new theme for the board. There are already 3 themes available by default. 
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+<p align="center">
+    <img src="screen2.png" alt="Image"/>
+</p>
 
 ### Break down into end to end tests
 
