@@ -1,4 +1,4 @@
-# Pentago
+# Pentago - MATLAB
 
 <p align="center">
     <img src="6x6screenshot.png" alt="Image"/>
