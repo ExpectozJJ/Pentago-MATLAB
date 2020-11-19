@@ -28,7 +28,7 @@ This Pentago allows the user to change the theme or insert a new theme for the b
 
 One Piece                         |  Original Theme
 :--------------------------------:|:-------------------------:
-![Screenshot](6x6screenshot.png)  |  ![screen2](screen2.png)
+![screen2](screen2.png)           |  ![Screenshot](6x6screenshot.png)
 
 ### Pentago XL
 
